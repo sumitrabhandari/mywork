@@ -1,0 +1,24 @@
+.banner
+{
+    background-color: antiquewhite;
+}
+.banner h1
+{
+    font-size: 80px;
+}
+.box
+{
+    padding:15px 20px;
+}
+.pp
+{
+    padding-left: 500px;
+}
+.shadow
+{
+    box-shadow: 2px 2px 2px 2px rgba(red, green, blue, alpha);
+}
+.w-20
+{
+    width: 80px;
+}
